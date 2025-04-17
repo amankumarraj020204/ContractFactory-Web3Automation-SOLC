@@ -1,4 +1,4 @@
-# ⛲ Soldiity Contract Factory - Automating Tech
+# ⛲ Solidity Contract Factory - Automating Tech
 
 This repository contains a **Solidity-based Contract Factory** designed for secure,automated contract Deployment. Built for real-world usability, this contract enables users to claim tokens at fixed intervals, supports advanced configurations, and integrates smoothly with Web3 DApps and EVM-compatible chains.
 
